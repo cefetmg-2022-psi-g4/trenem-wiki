@@ -11,5 +11,6 @@ Integrantes do grupo:
 * João Vitor
 * Matheus Gaston
 
+Trabalho planejado pelos alunos de Informática 3 do **CEFET-MG**. 
 
 [Wiki](https://github.com/cefetmg-2022-psi-g4/wiki/wiki)
