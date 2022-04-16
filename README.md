@@ -1,5 +1,5 @@
 # Wiki
-TRENEM 
+
 > Um aplicativo de questões que testam os conhecimentos necessários para o ENEM
 
 Integrantes do grupo:
